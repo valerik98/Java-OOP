@@ -46,5 +46,4 @@ public class Student {
         this.hometown = hometown;
     }
 
-
 }

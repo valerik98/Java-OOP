@@ -32,7 +32,7 @@ public class Main {
                     }
                     break;
                 case "HasNext":
-                    System.out.println(listyIterator.hasNext());
+                    System.out.println();
                     break;
                 case "PrintAll":
                     listyIterator.forEach(e -> System.out.print(e + " "));

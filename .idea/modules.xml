@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Softuni/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Softuni/Advanced/Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Softuni/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/Softuni/Fundamentals/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Softuni/OOP/OOP.iml" filepath="$PROJECT_DIR$/Softuni/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Softuni/Programming Basics/Programming Basics.iml" filepath="$PROJECT_DIR$/Softuni/Programming Basics/Programming Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Softuni/Softuni.iml" filepath="$PROJECT_DIR$/Softuni/Softuni.iml" />
       <module fileurl="file://$PROJECT_DIR$/Udemy/Udemy.iml" filepath="$PROJECT_DIR$/Udemy/Udemy.iml" />
