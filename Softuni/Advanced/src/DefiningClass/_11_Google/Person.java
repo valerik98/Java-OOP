@@ -58,4 +58,7 @@ public class Person {
         this.children.forEach(child -> output.append(child).append(System.lineSeparator()));
         return output.toString();
     }
+
+    public void increaseSalary(double bonus) {
+    }
 }
